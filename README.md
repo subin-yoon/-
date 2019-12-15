@@ -9,7 +9,7 @@
 
 ### 2. 데이터 수집
 <BR><BR>
- ![2019반기](./영상/2019반기.png) 
+ ![2019 반기](https://user-images.githubusercontent.com/58392656/70865703-bd0b8300-1fa3-11ea-8b05-3cca71c13cfe.png)
   <BR><BR>
 
 위키피디아 화면이다.

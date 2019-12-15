@@ -26,4 +26,10 @@
  <BR>
 최대 이용객수는 54388000이고, 최소이용객수는 24463000이다.
  <BR>
+ ![Rplot01](https://user-images.githubusercontent.com/58392656/70865812-23dd6c00-1fa5-11ea-9c7b-544c31a6dda7.png) 
+<BR>
+ 구글 지도를 ggmap을 이용하여 불러온다
+ <BR>
+  
+  ### 4. 데이터 처리 후
   
